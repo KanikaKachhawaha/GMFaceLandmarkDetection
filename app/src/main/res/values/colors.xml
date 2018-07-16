@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2B67B3</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#42D350</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBG">#76cde1</color>
+    <color name="colorFB">#3a5897</color>
+    <color name="colorGPlus">#f4511e</color>
+    <color name="colorBlack50">#80000000</color>
+    <color name="black">#000000</color>
+    <color name="colorSaprator">#EEEEEE</color>
+    <color name="colorBlue">#FFF</color>
+    <color name="colorHeaderBG">#52b3db</color>
+    <color name="colorButton">#64aebf</color>
+    <color name="colorHint">#979595</color>
+    <color name="colorToolTip1">#b9006e</color>
+    <color name="colorToolTip2">#f05a28</color>
+    <color name="colorToolTip3">#3a0256</color>
+    <color name="colorCraousel">#cecece</color>
+    <color name="colorCrOrange">#efb443</color>
+    <color name="colorCrGreen">#7fda8c</color>
+    <color name="colorCrRed">#f26f6c</color>
+    <color name="colorCrAqua">@color/colorBG</color>
+    <color name="colorCrPurple">#c776e1</color>
+    <color name="colorSerach">#e5e5e5</color>
+    <color name="colorCharity">#282828</color>
+    <color name="colorPink">#e65a9f</color>
+    <color name="colorLightGray">#b3b3b3</color>
+    <color name="colorGray">#666666</color>
+    <color name="colorBlack10">#1A000000</color>
+    <color name="colorPlanButton">#999999</color>
+    <color name="colorHome">#3f4972</color>
+    <color name="shadow">#acaaaa</color>
+
+    <color name="blueProgress">#76cde1</color>
+    <color name="redProgress">#FF0000</color>
+    <color name="greenProgress">#00FF00</color>
+    <color name="whiteProgress">#FFFFFF</color>
+    <color name="brownProgress">#A52A2A</color>
+    <color name="darkblueProgress">#0000A0</color>
+    <color name="blackProgress">#000000</color>
+    <color name="alertButtonTextColor">#5bcaff</color>
+
+    <!--Hex opacity values -->
+    <!--100% — FF-->
+    <!--95% — F2-->
+    <!--90% — E6-->
+    <!--85% — D9-->
+    <!--80% — CC-->
+    <!--75% — BF-->
+    <!--70% — B3-->
+    <!--65% — A6-->
+    <!--60% — 99-->
+    <!--55% — 8C-->
+    <!--50% — 80-->
+    <!--45% — 73-->
+    <!--40% — 66-->
+    <!--35% — 59-->
+    <!--30% — 4D-->
+    <!--25% — 40-->
+    <!--20% — 33-->
+    <!--15% — 26-->
+    <!--10% — 1A-->
+    <!--5% — 0D-->
+    <!--0% — 00-->
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/button_white"
+    android:orientation="vertical">
+
+    <com.example.kanika.gmfacelandmarkdetection.fonts.GothamRndBookTextView
+        android:id="@+id/txt_FromCamera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="@dimen/padding_15"
+        android:paddingTop="@dimen/padding_15"
+        android:text="@string/from_camera"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorSaprator" />
+
+    <com.example.kanika.gmfacelandmarkdetection.fonts.GothamRndBookTextView
+        android:id="@+id/txt_FromGallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="@dimen/padding_15"
+        android:paddingTop="@dimen/padding_15"
+        android:text="@string/from_gallery"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+    <View
+        android:id="@+id/view_delete"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorSaprator" />
+
+
+
+    <com.example.kanika.gmfacelandmarkdetection.fonts.GothamRndBookTextView
+        android:id="@+id/txt_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="@dimen/padding_15"
+        android:paddingTop="@dimen/padding_15"
+        android:text="@string/cancel"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+</LinearLayout>
